@@ -1,4 +1,4 @@
-<h1 align="center">Oracl SQL Criminal Record Database</h1>
+<h1 align="center">Oracle SQL Criminal Record Database</h1>
 <h4 align="center"><i>Individual project for my Databases Class</i></h2>
 
 # Description
